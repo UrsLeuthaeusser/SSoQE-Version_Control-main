@@ -1,2 +1,2 @@
 #go fast
-#go slow
+#go super fast
